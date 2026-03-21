@@ -1,6 +1,6 @@
 cask "claude-usage" do
-  version "1.0.0"
-  sha256 "6a1d2d3af5c5d7e426e4fb68afbd048cb4f4564485ab48fae6166fa1b9818533"
+  version "1.0.1"
+  sha256 "d5ed0bce5f0b38f9a490ea521851fcf6b35a5b30066ebab6b08a1eca26d30f87"
 
   url "https://github.com/MarioGith/ClaudeUsage/releases/download/v#{version}/ClaudeUsage.zip"
   name "ClaudeUsage"
